@@ -1,0 +1,7 @@
+C:\Users\HP\Desktop\homework2\hw.second\hw.second\bin\Debug\hw.second.exe.config
+C:\Users\HP\Desktop\homework2\hw.second\hw.second\bin\Debug\hw.second.exe
+C:\Users\HP\Desktop\homework2\hw.second\hw.second\bin\Debug\hw.second.pdb
+C:\Users\HP\Desktop\homework2\hw.second\hw.second\obj\Debug\hw.second.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\homework2\hw.second\hw.second\obj\Debug\hw.second.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\homework2\hw.second\hw.second\obj\Debug\hw.second.exe
+C:\Users\HP\Desktop\homework2\hw.second\hw.second\obj\Debug\hw.second.pdb
